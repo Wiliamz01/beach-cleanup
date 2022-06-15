@@ -1,2 +1,4 @@
 # beach-cleanup
-Beach Cleanup Non-profit Website
+This Github repository is dedicated to the Beach Cleanup Non-profit Website
+
+
