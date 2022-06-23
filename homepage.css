@@ -1,14 +1,15 @@
 *,
 *::before,
-*::after 
-{
+*::after {
   box-sizing: border-box;
 }
 
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-body {
-    background-color:rgb(119, 209, 221); 
 
+body {
+  background-color: rgb(119, 209, 221);
 }
+
+/*# sourceMappingURL=homepage.css.map */
