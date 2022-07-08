@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="section">...</div>
+  <div class="section">...</div>
+  ...
+</div>
+<style>
+    .container{
+        height:100vh;
+        overflow-y: scroll;
+    }
+    .section{
+        height:100vh;
+    }
+</style>
+
+.container {
+    scroll-snap-type: y mandatory;
+    display: flex;
+    scroll-snap-type: x mandatory;
+}
+
+.section {
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+}
